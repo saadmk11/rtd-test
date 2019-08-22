@@ -24,7 +24,6 @@ deploy/.vagrant
 dist/*
 local_settings.py
 locks/**
-logs/*
 media/dash
 media/epub
 media/export
